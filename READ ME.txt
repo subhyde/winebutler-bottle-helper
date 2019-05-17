@@ -1,0 +1,13 @@
+<—READ ME—>
+This is an open source project. If someone wants to add or edit the project please clone the repo and
+add whatever features you’d like!
+
+source : https://github.com/subhyde/winebutler-bottle-helper/
+
+HOW TO INSTALL
+1) open up google chrome
+2) go to settings, then extensions
+3) turn on developer mode in the top right corner
+4) click on load unpacked extension
+5) find the source of this folder and upload the folder * do not upload an individual file, it will not work*
+6) restart browser and use at ease!
